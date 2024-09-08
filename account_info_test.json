@@ -1,0 +1,17 @@
+{
+
+    "card_one": {
+        "PIN" : "1234",
+        "accounts_to_balance": {
+            "saving": 9000,
+            "checking": 500
+        }
+    },
+    "card_two": {
+        "PIN" : "0000",
+        "accounts_to_balance": {
+            "checking": 4000
+        }
+    }
+    
+}
