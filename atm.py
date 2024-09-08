@@ -7,8 +7,7 @@ class ATM:
     
     def __init__(self, bank_info_file_path: str):
         """
-        Initializes an instance of the planner class with information about nest and 
-        delivery sites.
+        Initialize an instace of ATM class with a .json file containing bank account information
 
         Args:
             bank_info_json: file path of a .json file that contains information of registered accounts
