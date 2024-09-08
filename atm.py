@@ -165,7 +165,3 @@ class ATM:
                     user_decided_to_continue_or_not = True
                 else:
                     print("Please provide your option as y or n")
-
-# if __name__ == '__main__':
-#     atm = ATM('account_info_test.json')
-#     atm.user_interaction_flow()
