@@ -90,7 +90,7 @@ class ATM:
 
     def get_balance(self, card_name: str, pin: str, account_type: str) -> None | int:
         """
-        withdraws a specified amount of money to an account corresponding to the given card's name, pin number, and account type
+        obtains how much balance is left within an account
 
         Args:
             card_name (str): card name
